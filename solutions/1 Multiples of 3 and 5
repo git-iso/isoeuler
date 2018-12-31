@@ -1,0 +1,5 @@
+# Checks all num between 0 and 1000 that are whole divisible by 3 or 5 (does not check duplicates)
+print(sum([x for x in range(1000) if x % 3 == 0 or x % 5 == 0]))
+
+
+
