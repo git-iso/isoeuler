@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afa761d8-1a98-4a1b-9895-ff40bb8afb38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solutions/3 Largest Prime Factor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/5 Smallest Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/6 Sum Square Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/7 10001st Prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/8 Largest Product in a Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/9 Special Pythagorean Triplet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/2 Even Fibonacci Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/2 Even Fibonacci Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +18,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/5 Smallest Multiple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/6 Sum Square Difference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solutions/9 Special Pythagorean Triplet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solutions/3 Largest Prime Factor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -29,6 +72,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>x</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -39,6 +87,11 @@
         <option value="$PROJECT_DIR$/solutions/2 Even Fibonacci Numbers.py" />
         <option value="$PROJECT_DIR$/solutions/3 Largest Prime Factor.py" />
         <option value="$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py" />
+        <option value="$PROJECT_DIR$/solutions/5 Smallest Multiple.py" />
+        <option value="$PROJECT_DIR$/solutions/6 Sum Square Difference.py" />
+        <option value="$PROJECT_DIR$/solutions/7 10001st Prime.py" />
+        <option value="$PROJECT_DIR$/solutions/8 Largest Product in a Series.py" />
+        <option value="$PROJECT_DIR$/solutions/9 Special Pythagorean Triplet.py" />
       </list>
     </option>
   </component>
@@ -53,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,6 +122,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3 Largest Prime Factor">
-    <configuration name="1 Multiples of 3 and 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.8 Largest Product in a Series">
+    <configuration name="4 Largest Palindrome Product" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isoeuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/1 Multiples of 3 and 5" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 Even Fibonacci Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5 Smallest Multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isoeuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/2 Even Fibonacci Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/5 Smallest Multiple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3 Largest Prime Factor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6 Sum Square Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isoeuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +195,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/3 Largest Prime Factor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/6 Sum Square Difference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7 10001st Prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isoeuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/7 10001st Prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8 Largest Product in a Series" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isoeuler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/8 Largest Product in a Series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,9 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3 Largest Prime Factor" />
-        <item itemvalue="Python.2 Even Fibonacci Numbers" />
-        <item itemvalue="Python.1 Multiples of 3 and 5" />
+        <item itemvalue="Python.8 Largest Product in a Series" />
+        <item itemvalue="Python.7 10001st Prime" />
+        <item itemvalue="Python.6 Sum Square Difference" />
+        <item itemvalue="Python.5 Smallest Multiple" />
+        <item itemvalue="Python.4 Largest Palindrome Product" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +281,7 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38402626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.392779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,7 +325,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solutions/4 Largest Palindrome Product.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/5 Smallest Multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/6 Sum Square Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/7 10001st Prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/8 Largest Product in a Series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/9 Special Pythagorean Triplet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
